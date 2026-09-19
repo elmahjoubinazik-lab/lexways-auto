@@ -76,5 +76,31 @@
       "30 jours pour contester devant la conciliation."
     ],
     "legende": "Votre loyer augmente de 200 francs du jour au lendemain. Le propriétaire a-t-il tous les droits ? 🏠\n\nL'histoire de Karim (cas fictif) : locataire à Genève, il reçoit un courrier lui annonçant +200 CHF de loyer par mois.\n\n• Le propriétaire ne peut pas augmenter comme il veut : la hausse doit être notifiée sur la formule officielle agréée par le canton, avec les motifs précis (art. 269d CO).\n• Sans formule officielle, sans motifs, ou sous menace de résiliation : l'augmentation est nulle.\n• Vous avez 30 jours dès réception pour saisir l'autorité de conciliation en matière de baux.\n\nInformation générale — ne constitue pas un conseil juridique.\n\n📩 Un doute sur votre bail ? calendly.com/lexways ou message privé.\n\n—\n\n[EN] Your rent jumps by 200 francs overnight. Can the landlord do whatever they want? ⚖️\n\n• A landlord can't raise rent freely: the increase must be served on the official cantonal form, stating precise reasons (art. 269d Swiss CO).\n• Without the form, reasons, or under threat of termination: the increase is void.\n• You have 30 days from receipt to bring it before the rental conciliation authority.\n\nGeneral information — not legal advice.\n\n📩 Book at calendly.com/lexways or DM.\n\n#bail #loyer #immobilier #locataire #Geneve #Suisse #Lexways #avocat #droitdubail #conciliation"
+  },
+  {
+    "id": "travail_non_concurrence",
+    "kicker": "DROIT DU TRAVAIL · NON-CONCURRENCE",
+    "cover": {
+      "quote": "« En partant, tu ne pourras pas rejoindre un concurrent pendant 3 ans. »",
+      "title_html": "Cette clause est-elle vraiment <span style=\"color:#5B57F2\">valable</span> ?",
+      "mascotte": "mascotte_finger"
+    },
+    "story": {
+      "name": "Voici Sami.",
+      "text": "Ingénieur commercial à Lausanne, licencié lors d'une restructuration. Il retrouve vite un poste… chez un concurrent. Son ancien employeur brandit la clause de non-concurrence signée à l'embauche.",
+      "quote": "« On me dit que je n'ai pas le droit de travailler là. Vraiment ? »",
+      "object": "form"
+    },
+    "questions": [
+      {"kicker": "LA VALIDITÉ", "num": "01", "title": "Signer suffit-il à m'engager ?", "punch": "NON", "box": "Il faut un écrit, mais aussi un accès réel à la clientèle ou aux secrets, et un risque de préjudice sensible pour l'employeur — sinon la clause ne vaut rien.", "object": "shield", "pager": "01 / 03"},
+      {"kicker": "LES LIMITES", "num": "02", "title": "Peut-elle m'interdire tout, partout, toujours ?", "punch": "3 ans", "box": "Non : limitée dans le lieu, le temps et le genre d'activité. Au-delà de 3 ans seulement à titre exceptionnel — le juge peut réduire une clause excessive.", "object": "hourglass", "pager": "02 / 03"},
+      {"kicker": "LE POINT CLÉ", "num": "03", "title": "Et si c'est l'employeur qui me licencie ?", "punch": "TOMBE", "box": "Si l'employeur résilie sans motif imputable au travailleur, la clause s'éteint (art. 340c CO).", "object": "balance", "pager": "03 / 03"}
+    ],
+    "takeaway": [
+      "Pas d'écrit ni d'accès aux secrets ou à la clientèle : pas de clause valable.",
+      "Trop large dans le lieu, la durée ou l'activité ? Le juge peut la réduire.",
+      "Licencié sans faute de votre part ? La clause tombe (art. 340c CO)."
+    ],
+    "legende": "Vous quittez votre poste… et une clause de non-concurrence vous interdit d'aller chez un concurrent. Êtes-vous vraiment lié ? ⚖️\n\nL'histoire de Sami (cas fictif) : ingénieur commercial à Lausanne, licencié lors d'une restructuration, il retrouve un poste chez un concurrent. Son ancien employeur brandit la clause signée à l'embauche.\n\n• Signer ne suffit pas : la clause n'est valable que si elle est écrite, que le salarié avait accès à la clientèle ou aux secrets d'affaires ou de fabrication, et que leur usage peut causer un préjudice sensible à l'employeur (art. 340 CO).\n• Elle doit rester limitée dans le lieu, le temps et le genre d'activité ; au-delà de 3 ans seulement à titre exceptionnel. Le juge peut réduire une clause excessive (art. 340a CO).\n• En cas de violation : dommages-intérêts, ou peine conventionnelle si elle a été convenue — le juge pouvant la réduire si elle est excessive (art. 340b CO).\n• Point clé : si l'employeur licencie sans motif imputable au travailleur (ou si le salarié démissionne pour un motif imputable à l'employeur), la clause s'éteint (art. 340c CO).\n\nInformation générale — ne constitue pas un conseil juridique.\n\n📩 Une clause de non-concurrence vous inquiète ? calendly.com/lexways ou message privé.\n\n—\n\n[EN] You leave your job… and a non-compete clause bars you from joining a competitor. Are you really bound? ⚖️\n\n• Signing isn't enough: the clause is valid only if in writing, the employee had access to clientele or business/manufacturing secrets, and their use could cause the employer significant harm (art. 340 Swiss CO).\n• It must be limited in place, time and type of activity; beyond 3 years only exceptionally, and a court may reduce an excessive clause (art. 340a CO).\n• Breach: damages, or a contractual penalty if agreed (a court may reduce an excessive one) (art. 340b CO).\n• Key point: if the employer terminates without fault on the employee's side, the clause lapses (art. 340c Swiss CO).\n\nGeneral information — not legal advice.\n\n📩 Book at calendly.com/lexways or DM.\n\n#noncompete #droitdutravail #clausedenonconcurrence #Lausanne #Geneve #Suisse #Lexways #avocat #employmentlaw #droitsuisse"
   }
 ]
