@@ -1,0 +1,80 @@
+[
+  {
+    "id": "travail_arret_licenciement",
+    "kicker": "DROIT DU TRAVAIL · SUISSE",
+    "cover": {
+      "quote": "« Tu es en arrêt maladie ?<br>Voici ta lettre de licenciement. »",
+      "title_html": "Est-ce vraiment <span style=\"color:#5B57F2\">légal</span> ?",
+      "mascotte": "mascotte_open"
+    },
+    "story": {
+      "name": "Voici Léa.",
+      "text": "34 ans, employée depuis 3 ans, en arrêt pour épuisement. Hier, une lettre de licenciement dans sa boîte.",
+      "quote": "« Si je perds mon emploi maintenant, je perds tout. »",
+      "object": "letter"
+    },
+    "questions": [
+      {"kicker": "LE LICENCIEMENT", "num": "01", "title": "Peut-on me licencier en arrêt maladie ?", "punch": "NON", "box": "Passé le temps d'essai, un congé notifié pendant la période de protection est nul.", "object": "letter", "pager": "01 / 03"},
+      {"kicker": "LA DURÉE", "num": "02", "title": "Combien de temps suis-je protégée ?", "punch": "90 j", "box": "30 jours la 1re année, 90 jours de la 2e à la 5e, 180 jours dès la 6e. Léa, 3 ans : 90 jours.", "object": "shield", "pager": "02 / 03"},
+      {"kicker": "LE CALENDRIER", "num": "03", "title": "Et si la lettre est arrivée avant l'arrêt ?", "punch": "", "box": "Le congé reste valable, mais le délai est suspendu : le départ est repoussé d'autant.", "object": "hourglass", "pager": "03 / 03"}
+    ],
+    "takeaway": [
+      "La protection couvre la maladie ou l'accident, sauf faute grave.",
+      "Le certificat médical est votre meilleure protection.",
+      "« Malade » ne règle pas tout — mais change tout sur le calendrier."
+    ],
+    "legende": "Vous êtes en arrêt maladie… et votre employeur vous licencie. C'est fini ? Pas si vite. ⚖️\n\nL'histoire de Léa (cas fictif) : 34 ans, employée depuis 3 ans, en arrêt pour épuisement professionnel.\n\n• Passé le temps d'essai, un congé notifié pendant la période de protection est nul (art. 336c CO).\n• La protection dure 30 jours la 1re année, 90 jours de la 2e à la 5e, 180 jours dès la 6e.\n• Si la lettre est arrivée avant l'arrêt, le congé reste valable mais le délai est suspendu.\n• La protection couvre la maladie ou l'accident, sauf faute grave de votre part.\n\nInformation générale — ne constitue pas un conseil juridique.\n\n📩 Une question sur votre situation ? calendly.com/lexways ou message privé.\n\n—\n\n[EN] On sick leave — and your employer fires you. Is it over? Not so fast. ⚖️\n\n• After the trial period, a dismissal served during the protection period is void (art. 336c Swiss CO).\n• Protection lasts 30 days in year 1, 90 days from year 2 to 5, 180 days from year 6.\n• If the letter came before the leave, the dismissal stands but the notice period is suspended.\n\nGeneral information — not legal advice.\n\n📩 A question? Book at calendly.com/lexways or DM.\n\n#droitdutravail #licenciement #arretmaladie #avocat #Geneve #Suisse #Lexways #employmentlaw #droitsuisse"
+  },
+  {
+    "id": "frontaliers_impots",
+    "kicker": "FISCALITÉ · FRONTALIERS",
+    "cover": {
+      "quote": "« Premier salaire suisse…<br>et un impôt déjà prélevé ? »",
+      "title_html": "France ou Suisse : qui prélève vos <span style=\"color:#5B57F2\">impôts</span> ?",
+      "mascotte": "mascotte_finger"
+    },
+    "story": {
+      "name": "Voici Thomas.",
+      "text": "29 ans, il vit à Annemasse et vient d'être engagé à Genève. Sur sa première fiche de paie : un impôt déjà prélevé.",
+      "quote": "« Je croyais payer mes impôts en France… »",
+      "object": "passport"
+    },
+    "questions": [
+      {"kicker": "OÙ PAYER ?", "num": "01", "title": "France ou Suisse ? Ça dépend du canton.", "punch": "", "box": "À Genève : impôt à la source en Suisse. Accord de 1983 (Vaud, Valais, Jura…) : imposé en France.", "object": "passport", "pager": "01 / 03"},
+      {"kicker": "DOUBLE IMPÔT ?", "num": "02", "title": "Serez-vous imposé deux fois ?", "punch": "NON", "box": "Vos revenus se déclarent aussi en France (2047-SUISSE) ; un mécanisme évite la double imposition.", "object": "balance", "pager": "02 / 03"},
+      {"kicker": "TÉLÉTRAVAIL", "num": "03", "title": "Et si vous télétravaillez ?", "punch": "40%", "box": "Depuis 2026, jusqu'à 40% de télétravail/an depuis la France : tout reste imposé en Suisse.", "object": "coins", "pager": "03 / 03"}
+    ],
+    "takeaway": [
+      "Le canton décide : à Genève, impôt à la source en Suisse.",
+      "Quasi-résident : 90% de revenus en Suisse + demande avant le 31 mars.",
+      "Restez sous 40% de télétravail pour garder l'imposition suisse."
+    ],
+    "legende": "Vous décrochez un poste en Suisse… et un impôt est déjà prélevé sur votre 1er salaire. Normal ? 🇫🇷🇨🇭\n\nL'histoire de Thomas (cas fictif) : 29 ans, d'Annemasse, engagé à Genève.\n\n• France ou Suisse ? Ça dépend du canton. À Genève : impôt à la source en Suisse. Dans les 8 cantons de l'accord de 1983 (Vaud, Valais, Berne, Soleure, Bâle-Ville, Bâle-Campagne, Neuchâtel, Jura) : imposé en France.\n• Double imposition ? Non : revenus déclarés aussi en France (2047-SUISSE), un mécanisme l'évite.\n• Quasi-résident : si 90% de vos revenus sont imposables en Suisse, taxation ordinaire possible — demande avant le 31 mars.\n• Télétravail : depuis 2026, jusqu'à 40%/an depuis la France, tout reste imposé en Suisse.\n\nInformation générale — ne constitue pas un conseil juridique.\n\n📩 Frontalier avec un doute ? calendly.com/lexways ou message privé.\n\n—\n\n[EN] You land a job in Switzerland… and tax is already withheld. Normal? ⚖️\n\n• France or Switzerland? It depends on the canton (Geneva: taxed at source in CH; 1983-agreement cantons: taxed in France).\n• No double taxation (form 2047-SUISSE).\n• Remote work: up to 40%/year from France keeps everything taxed in Switzerland (since 2026).\n\nGeneral information — not legal advice.\n\n📩 Book at calendly.com/lexways or DM.\n\n#frontalier #impots #fiscalite #Geneve #Suisse #France #Lexways #avocat #teletravail #droitfiscal"
+  },
+  {
+    "id": "immo_augmentation_loyer",
+    "kicker": "IMMOBILIER · BAIL · SUISSE",
+    "cover": {
+      "quote": "« Votre loyer augmente de 200 francs dès le mois prochain. »",
+      "title_html": "Le propriétaire fait-il ce qu'il <span style=\"color:#5B57F2\">veut</span> ?",
+      "mascotte": "mascotte_open"
+    },
+    "story": {
+      "name": "Voici Karim.",
+      "text": "Locataire à Genève, il reçoit un courrier : +200 CHF de loyer par mois. Doit-il payer, ou peut-il refuser ?",
+      "quote": "« Je croyais qu'il pouvait décider seul… »",
+      "object": "house"
+    },
+    "questions": [
+      {"kicker": "LA FORME", "num": "01", "title": "Peut-il augmenter comme il veut ?", "punch": "NON", "box": "La hausse doit être notifiée sur la formule officielle du canton, avec les motifs précis.", "object": "letter", "pager": "01 / 03"},
+      {"kicker": "LE PIÈGE", "num": "02", "title": "Et s'il oublie la formule ?", "punch": "NULLE", "box": "Sans formule officielle, sans motifs, ou sous menace de résiliation : la hausse est nulle.", "object": "form", "pager": "02 / 03"},
+      {"kicker": "LE DÉLAI", "num": "03", "title": "Combien de temps pour réagir ?", "punch": "30 j", "box": "Vous avez 30 jours dès réception pour saisir l'autorité de conciliation.", "object": "calendar", "pager": "03 / 03"}
+    ],
+    "takeaway": [
+      "La hausse passe par la formule officielle du canton, avec motifs.",
+      "Pas de formule ou menace de résilier → augmentation nulle.",
+      "30 jours pour contester devant la conciliation."
+    ],
+    "legende": "Votre loyer augmente de 200 francs du jour au lendemain. Le propriétaire a-t-il tous les droits ? 🏠\n\nL'histoire de Karim (cas fictif) : locataire à Genève, il reçoit un courrier lui annonçant +200 CHF de loyer par mois.\n\n• Le propriétaire ne peut pas augmenter comme il veut : la hausse doit être notifiée sur la formule officielle agréée par le canton, avec les motifs précis (art. 269d CO).\n• Sans formule officielle, sans motifs, ou sous menace de résiliation : l'augmentation est nulle.\n• Vous avez 30 jours dès réception pour saisir l'autorité de conciliation en matière de baux.\n\nInformation générale — ne constitue pas un conseil juridique.\n\n📩 Un doute sur votre bail ? calendly.com/lexways ou message privé.\n\n—\n\n[EN] Your rent jumps by 200 francs overnight. Can the landlord do whatever they want? ⚖️\n\n• A landlord can't raise rent freely: the increase must be served on the official cantonal form, stating precise reasons (art. 269d Swiss CO).\n• Without the form, reasons, or under threat of termination: the increase is void.\n• You have 30 days from receipt to bring it before the rental conciliation authority.\n\nGeneral information — not legal advice.\n\n📩 Book at calendly.com/lexways or DM.\n\n#bail #loyer #immobilier #locataire #Geneve #Suisse #Lexways #avocat #droitdubail #conciliation"
+  }
+]

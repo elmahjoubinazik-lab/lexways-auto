@@ -1,0 +1,9 @@
+{
+  "_comment": "schedule: jour de la semaine (lundi=0 ... dimanche=6) -> id du carrousel dans content_bank.json",
+  "schedule": {
+    "1": "frontaliers_impots",
+    "3": "travail_arret_licenciement",
+    "4": "immo_augmentation_loyer"
+  },
+  "default": "immo_augmentation_loyer"
+}
