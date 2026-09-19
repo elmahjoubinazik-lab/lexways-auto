@@ -26,7 +26,7 @@ import os, json, base64, smtplib, datetime, pathlib, sys
 from email.mime.text import MIMEText
 
 HERE = pathlib.Path(__file__).parent
-ASSETS = HERE / "assets"
+ASSETS = HERE  # les visuels sont à la racine du dépôt (upload iPad simplifié)
 INK="#0E0E12"; IVO="#F5F4F1"; IND="#3D3AE8"; INDL="#5B57F2"; GREY="#9A9AA2"; MUT="#8E8E96"
 MASK="-webkit-mask-image:radial-gradient(ellipse 62% 72% at 50% 42%,#000 55%,transparent 82%);mask-image:radial-gradient(ellipse 62% 72% at 50% 42%,#000 55%,transparent 82%);"
 
