@@ -6,5 +6,5 @@
     "3": "travail_arret_licenciement",
     "4": "immo_augmentation_loyer"
   },
-  "default": "travail_non_concurrence"
+  "default": "travail_harcelement"
 }

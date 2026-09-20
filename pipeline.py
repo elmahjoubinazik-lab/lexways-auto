@@ -99,6 +99,22 @@ def render_contact(e):
       </div>
       <div style="position:absolute;bottom:96px;left:96px;font-size:21px;color:#6E6E76;">Information générale — ne constitue pas un conseil juridique.</div>''')
 
+def render_bookmark(e):
+    return frame(f'''{head("À GARDER")}
+      <div style="position:absolute;top:250px;left:0;right:0;display:flex;justify-content:center;">
+        <svg width="240" height="300" viewBox="0 0 24 24" fill="rgba(91,87,242,0.20)" stroke="{INDL}" stroke-width="1.3" style="filter:drop-shadow(0 0 46px rgba(91,87,242,0.7));"><path d="M6 2h12a2 2 0 0 1 2 2v18l-8-4-8 4V4a2 2 0 0 1 2-2z"/></svg>
+      </div>
+      <div style="position:absolute;top:700px;left:96px;right:96px;text-align:center;">
+        <div style="font-weight:900;font-size:74px;line-height:1.05;letter-spacing:-1px;">Gardez ce guide<br>à portée de main</div>
+        <div style="font-size:38px;line-height:1.4;color:{GREY};font-weight:500;margin-top:26px;">Touchez l'icône <span style="color:{IVO};font-weight:800;">signet</span> en bas à droite de ce post — vous le retrouverez au bon moment.</div>
+      </div>
+      <div style="position:absolute;bottom:150px;left:0;right:0;display:flex;justify-content:center;">
+        <div style="display:inline-flex;align-items:center;gap:16px;background:{IND};color:#fff;font-weight:800;font-size:36px;padding:20px 40px;border-radius:60px;">
+          <svg width="30" height="30" viewBox="0 0 24 24" fill="#fff"><path d="M6 2h12a2 2 0 0 1 2 2v18l-8-4-8 4V4a2 2 0 0 1 2-2z"/></svg>
+          Enregistrez ce carrousel
+        </div>
+      </div>''')
+
 def build_slides(e, outdir):
     from playwright.sync_api import sync_playwright
     outdir.mkdir(exist_ok=True)
@@ -107,6 +123,7 @@ def build_slides(e, outdir):
         htmls.append((f"{i+2}_q{i}",render_question(q)))
     htmls.append((f"{len(e['questions'])+3}_retenir",render_takeaway(e)))
     htmls.append((f"{len(e['questions'])+4}_contact",render_contact(e)))
+    htmls.append((f"{len(e['questions'])+5}_bookmark",render_bookmark(e)))
     paths=[]
     with sync_playwright() as p:
         b=p.chromium.launch(); pg=b.new_page(viewport={"width":1080,"height":1350},device_scale_factor=2)
